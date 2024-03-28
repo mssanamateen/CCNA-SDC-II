@@ -14,7 +14,7 @@ git clone https://github.com/<your_user_name>/CCNA-SDC-II.git
 **3.** Navigate to the project directory :file_folder: .
 
 ```
-cd HashHub
+cd CCNA-SDC-II
 ```
 
 **4.** Add a reference(remote) to the original repository.
